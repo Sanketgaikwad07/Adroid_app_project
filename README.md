@@ -164,9 +164,9 @@ https://fakestoreapi.com/products
 
 ---
 
-##  Screenshots
+##  Output
 
-*Add screenshots here (optional)*
+link=https://github.com/user-attachments/assets/3e9cb945-35a0-4cfe-a611-28caf39b4e20
 
 ```
 
