@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvTitle" type="id" />
+    <item name="tvPrice" type="id" />
+    <item name="ivImage" type="id" />
+</resources>
