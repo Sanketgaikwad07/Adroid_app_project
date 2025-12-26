@@ -104,25 +104,6 @@ com.example.fake_store
 
 ---
 
-##  Key Components Explained
-
-### Entity
-
-Represents a database table.
-
-```java
-@Entity(tableName = "products")
-public class Product {
-    @PrimaryKey
-    public int id;
-    public String title;
-    public double price;
-    public String description;
-    public String image;
-}
-```
-
----
 
 
 ## 🔌 API Used
