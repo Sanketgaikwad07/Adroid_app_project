@@ -1,3 +1,4 @@
+
 # 🛒 Fake Store Android App
 
 An Android application that displays products from a remote API with **offline caching support using Room Database**.
